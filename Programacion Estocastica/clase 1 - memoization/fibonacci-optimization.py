@@ -15,7 +15,6 @@ def fibonacci_with_memo(n, memo={}):
         memo[n] = resultado
         return resultado
 
-
 if __name__ == "__main__":
     sys.setrecursionlimit(10002)
     n = int(input("Escoger número: "))
