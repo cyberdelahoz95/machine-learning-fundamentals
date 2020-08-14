@@ -1,4 +1,3 @@
-# convertiremos mediante simulación de montecarlo, la obteción de pi (solución determinística) en una solución estocástica.
 import random
 import math
 # incluir estadisticas
